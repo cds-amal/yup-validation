@@ -1,0 +1,19 @@
+{
+  "name": "reg-fs",
+  "version": "0.0.1-0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "cds-amal",
+  "scripts": {
+    "test": "ts-node src"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.7",
+    "@types/tape": "^5.6.4",
+    "tape": "^5.8.1",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "yup": "^1.4.0"
+  }
+}
